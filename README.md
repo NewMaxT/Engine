@@ -1,2 +1,3 @@
-# Engine
-Game Engine made by @Moonlet and @NewMaxT
+# Game Engine
+Authors:
+@Moonlet, @NewMaxT
