@@ -4,8 +4,6 @@
 
 # Game Engine based on OpenGL
 
-
-
 ## Repo Structure :open_file_folder:
 
 ```markdown
